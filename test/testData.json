@@ -1,0 +1,22 @@
+{
+    "validUser": {
+      "name": "Test User",
+      "email": "testuser@example.com",
+      "password": "TestPassword123"
+    },
+    "invalidUser": {
+      "email": "testuser@example.com",
+      "password": "WrongPassword"
+    },
+    "contact": {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "1234567890"
+    },
+    "updatedContact": {
+      "name": "Jane Doe",
+      "email": "jane@example.com",
+      "phone": "0987654321"
+    }
+  }
+  
